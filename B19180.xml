@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Propositions for peace propounded by the Kings most excellent Majesty to the Lords and Commons assembled in Parliament and to His Excellency Robert Earl of Essex, Lord generall of the the [sic] true Protestant army : together with the Parliaments answer thereunto : also welcome news from the Earle of Bedford, relating a great overthrow lately given to the Marquis of Hartford, the said Marquis being dangerously wounded.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B19180</idno><idno type="EEBO-CITATION">12277639</idno>
+  <idno type="VID">197695</idno>
+  <idno type="EEBO-PROQUEST">2240962274</idno>
+  
+            <idno type="STC">Wing C2725</idno>
+            <idno type="OCLC">12277639</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B19180)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 197695)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 247:E119, no 1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Propositions for peace propounded by the Kings most excellent Majesty to the Lords and Commons assembled in Parliament and to His Excellency Robert Earl of Essex, Lord generall of the the [sic] true Protestant army : together with the Parliaments answer thereunto : also welcome news from the Earle of Bedford, relating a great overthrow lately given to the Marquis of Hartford, the said Marquis being dangerously wounded.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Henry Seymour,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Septem. 27, 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Bedford, William Russell, --  Duke of, 1613-1700.</term>
+               <term type="personal_name">Essex, Robert Devereux, --  Earl of, 1591-1646.</term>
+               <term type="personal_name">Somerset, William Seymour, --  Duke of, 1588-1660.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Colm MacCrossan </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:197695:1"/>
+            <pb facs="tcp:197695:1"/>
+            <p>PROPOSITIONS FOR PEACE: Propounded by the Kings most Excellent Majesty, to the Lords and Commons assembled in Parliament, and to his Excellency Ro<g ref="char:EOLhyphen"/>bert Earl of Essex, Lord Generall of the the true Protestant Army. <hi>Together with the Parliaments Answer thereunto.</hi> Also Welcome News from the Earle of Bedford, Relating a great Overthrow lately given to the Marquis of Hartford, the said Marquis being dange<g ref="char:EOLhyphen"/>rously wounded.</p>
+            <figure>
+               <figDesc>printer's device of Henry Seymour, featuring a bird flying upwards framed by sunbeams emerging from the centre of a cloud (not in McKerrow)</figDesc>
+            </figure>
+            <p>
+               <hi>LONDON:</hi> Printed for Henry Seymour, Septem. 27. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:197695:2"/>
+            <pb facs="tcp:197695:2"/>
+            <head>VICTORIOVS NEVVES <hi>FROM</hi> The Earle of Bedford.</head>
+            <head type="sub">Declaring his Proceedings against the Marquesse of Hartford, the L. Pawlet, and the rest of the Cavaleers, since their marching from Shereborn</head>
+            <p>THe <hi>Marquesse of Hartford</hi> having information, that a great Num<g ref="char:EOLhyphen"/>ber of fresh Supplyes were com<g ref="char:EOLhyphen"/>ming to aid and assist the Earl of <hi>Bed<g ref="char:EOLhyphen"/>ford,</hi> he forthwith resolved to propound these following particulars, which was to this effect.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="speech">
+                        <pb facs="tcp:197695:3"/>
+                        <opener>
+                           <salute>My Lords and Gentlemen,</salute>
+                        </opener>
+                        <p>By divers Letters I am informed, that His Majesty is now going from <hi>Nottingham to Shrewsbury,</hi> and so to <hi>Worcester,</hi> where I am desired by di<g ref="char:EOLhyphen"/>vers Lords resident with His Majesty to withdraw my Forces from hence, and march towards <hi>Worcester,</hi> to joyne my Forces with the rest which are com<g ref="char:EOLhyphen"/>ming thither.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>And when he had propounded these particulars to them, they all most wil<g ref="char:EOLhyphen"/>lingly condiscended to his Propositi<g ref="char:EOLhyphen"/>ons, being joyfull that they had such an opportunity to betake themselves to flight.</p>
+            <p>But the Earl of <hi>Bedford</hi> being then at <hi>Dorchester</hi> with all his Forces, ha<g ref="char:EOLhyphen"/>ving information of their intentions, and that he had left the Castle, imme<g ref="char:EOLhyphen"/>diatly made after them, and pursued them with such speed, that on the se<g ref="char:EOLhyphen"/>cond dayes march he overtook them, being about two or three of the clocke
+<pb facs="tcp:197695:3"/>in the afternoon, and after some time spent in consultation of many matters of high consequence, concerning the King and Parliament, the Drums beate up for battle, and the Earl of <hi>Bedfords</hi> Forces made many happy shots against the Enemy, which did very good ser<g ref="char:EOLhyphen"/>vice and execution against them, but still the skirmish continued very des<g ref="char:EOLhyphen"/>perate on both sides, each party striving for the day, and indeed for a great while it was very doubtfull to which side it would fall on.</p>
+            <p>But at the last, being about five of the clock, Captain <hi>Balfour</hi> withsome o<g ref="char:EOLhyphen"/>thers, drew out three hundred Horse, and sive hundred Foot, and charged the Enemy on the left flank and Reer, and performed very good service therein, and as it is credibly reported, the Mar<g ref="char:EOLhyphen"/>quis is wounded, together with many more noble and undanted spirits slain, and after 3. or 4. hours skirmish, the Marquesse retreated, but the Earle doth still pursue them very close.</p>
+         </div>
+         <div type="treaty">
+            <pb facs="tcp:197695:4"/>
+            <head>Propositions for Peace, propounded by the Kings most excellent Maiestie to the Earl of Essex.</head>
+            <p>THe Kings Majesty having seri<g ref="char:EOLhyphen"/>ously weighed and considered the generall Affairs of this King<g ref="char:EOLhyphen"/>dome, and the present Actions and Pas<g ref="char:EOLhyphen"/>sages that are now ready to be put in execution.</p>
+            <p>His Majesty out of his tender love and affection, that he beares to all his Subjects of this Kingdome, and the ma<g ref="char:EOLhyphen"/>nifold and abundance of expressions of love and unity, that he hath oftentimes shewed and expressed to the Subjects of this Iland are manifold, and oftentimes have bin declared to His Subjects of <hi>England and Scotland.</hi>
+            </p>
+            <p>Yet neverthelesse, His Majesty seeing that the sword is now ready to bee drawn, and the blood of His Subjects
+<pb facs="tcp:197695:4"/>ready to be spilt, He having for a long time took consultation thereupon, and being now most gratiously pleased to declare His Royall intention and Re<g ref="char:EOLhyphen"/>solution once more to all His loving Subjects, He propounded these ensuing Propositions to the Honourabie Court of <hi>Parliament,</hi>
+            </p>
+            <p>viz.</p>
+            <p n="1">1. <hi>That although there hath beene many bitter and vehement expressions passed be<g ref="char:EOLhyphen"/>twixt his Honourable Houses, and his Roy<g ref="char:EOLhyphen"/>all Maiesty, yet to save and preserve all his loving Subiects from being involve in a Civill Warre, He is now gratiously pleased to recall the said Proclamations and De<g ref="char:EOLhyphen"/>clarations, and is desirous to have these di<g ref="char:EOLhyphen"/>stractions brought to a happy end and con<g ref="char:EOLhyphen"/>clusion.</hi>
+            </p>
+            <p n="2">2. <hi>That His Maiesty hath made most reall expressions for the prevention of all the present distractions in this Kingdome, and also the great care he took to avoid the effusion of much innocent bloud.</hi>
+            </p>
+            <pb facs="tcp:197695:5"/>
+            <p n="3">3. <hi>That he hath not forgotten the Par<g ref="char:EOLhyphen"/>liaments desire, to have his Royall person amongst them, which he will return to Lon<g ref="char:EOLhyphen"/>don, so soon as the cause of his Removall shall be taken away.</hi>
+            </p>
+         </div>
+         <div type="proclamation">
+            <head>The Parliaments Answer.</head>
+            <p>Shewing, That they have a hearty desire for the peace of this Kingdome, and do dayly labour and endeavour to preserve the same, desiring his Majesty to return to his great Counsell, and to treat with them, promising not onely safety to his Majesties person, but that they will also make him the most hap<g ref="char:EOLhyphen"/>py and flourishing Monarch, that ever swayed Scepter in these His Domini<g ref="char:EOLhyphen"/>ons.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
